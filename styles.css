@@ -1,4 +1,17 @@
 .container {
     height: 100%;
     width: 100%;
+    position: relative;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.centered-block {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    margin: 0 auto;
+    top: 50%;
 }
